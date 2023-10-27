@@ -48,7 +48,7 @@ const VedioPage = () => {
 
     return (
         <div>
-            <Heading title="Music Generation" description="Turn your prompt into video" icon={VideoIcon} iconColor="text-orange-700" bgColor="bg-orange-700/10" />
+            <Heading title="Video Generation" description="Turn your prompt into video" icon={VideoIcon} iconColor="text-orange-700" bgColor="bg-orange-700/10" />
             <div className="px-4 lg:px-8">
                 <div className="">
                     <Form {...form}>
